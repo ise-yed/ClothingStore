@@ -14,4 +14,4 @@ Clothing and accessories store
 <img src="https://github.com/ise-yed/ClothingStore/blob/main/assets/screenshots/my%20fav-iPhone%20X.png" width="220" height="385"/>
 <img src="https://github.com/ise-yed/ClothingStore/blob/main/assets/screenshots/my%20pay-iPhone%20X.png" width="220" height="385"/>
 <img src="https://github.com/ise-yed/ClothingStore/blob/main/assets/screenshots/my%20comment-iPhone%20X.png" width="220" height="385"/>
-<img src="https://github.com/ise-yed/ClothingStore/blob/main/assets/screenshots/Comment%20Screen-iPhone%20X.png" width="220" height="385"/>
+<!-- <img src="https://github.com/ise-yed/ClothingStore/blob/main/assets/screenshots/Comment%20Screen-iPhone%20X.png" width="220" height="385"/> -->
